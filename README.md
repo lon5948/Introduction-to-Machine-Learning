@@ -7,3 +7,6 @@ NYCU 111 上 / professor: 林彥宇
 
 ### hw2
 - implement Fisher’s linear discriminant by using only numpy
+
+### hw3
+- implement the Decision Tree, AdaBoost and Random Forest algorithm 

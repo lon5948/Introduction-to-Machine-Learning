@@ -10,3 +10,7 @@ NYCU 111 上 / professor: 林彥宇
 
 ### hw3
 - implement the Decision Tree, AdaBoost and Random Forest algorithm 
+
+### hw4
+- implement the Cross-validation and grid search by using only NumPy
+- train the SVM model from scikit-learn by the provided dataset and test the performance with testing data

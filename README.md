@@ -14,3 +14,10 @@ NYCU 111 上 / professor: 林彥宇
 ### hw4
 - implement the Cross-validation and grid search by using only NumPy
 - train the SVM model from scikit-learn by the provided dataset and test the performance with testing data
+
+### hw5
+- Train a model to predict all the digits in the image
+- Task 1: Single character in the image
+- Task 2: Two characters in the image (order matters)
+- Task 3: Four characters in the image (order matters)
+
